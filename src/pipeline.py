@@ -17,7 +17,7 @@ import os
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import config
+from . import config
 from .topics import *
 from .analysis import analyze_and_plot, run_drift_tests
 from .embeddings import build_embedding_model, compute_alignment_scores_all, embed_texts
