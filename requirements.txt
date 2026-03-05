@@ -7,5 +7,5 @@ sentence-transformers>=2.6
 matplotlib>=3.7
 python-dotenv>=1.0
 scipy>=1.10
-pyrarrow>=15
+pyarrow>=15
 syntok>=1.4.4
